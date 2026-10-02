@@ -1,8 +1,8 @@
 # Gabriel Seabra
 
-### Lawyer | Data Protection & LGPD | Cybersecurity | Software Development
+### Law Graduate | Data Protection & LGPD | Cybersecurity | Software Development
 
-I am a Brazilian lawyer building a multidisciplinary career at the intersection of **Law, Technology, Data Protection and Information Security**.
+I am a Brazilian law graduate building a multidisciplinary career at the intersection of Law, Technology, Data Protection and Information Security.
 
 My professional interests include privacy, Brazil's General Data Protection Law (LGPD), cybersecurity, digital law and software development.
 
